@@ -1,0 +1,12 @@
+name: player-auto-teleport
+main: org.github.playerautoteleport.main.PlayerAutoTeleport
+version: ${version}
+api-version: '1.17'
+author: byMouse
+website: https://github.com/byMouuse/player-auto-teleport
+commands:
+  autoteleport:
+    description: Opens an inventory to set up your auto teleport
+    aliases:
+      - at
+      - ateleport
