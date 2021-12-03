@@ -1,2 +1,2 @@
-# player-auto-walk
-Spigot plugin which allows a player to walk automatically in any direction.
+# player-auto-teleport
+Spigot plugin which allows a player to teleport himself automatically in any direction.
